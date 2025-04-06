@@ -1,4 +1,4 @@
-# Address Parsing Solution
+# Vietnamese Address Classification
 
 ## Overview
 This project implements an address parsing solution in Python to extract province, district, and ward information from Vietnamese address strings. It leverages a Trie data structure for efficient string matching and the `editdistance` library to find the closest matches within a specified edit distance. The solution processes input addresses, normalizes them, and compares results against a test dataset.
